@@ -1,2 +1,5 @@
 rootProject.name = 'myproject'
 
+jar {
+    enabled = false
+}
